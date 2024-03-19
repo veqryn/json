@@ -5,8 +5,8 @@
 package jsontext
 
 import (
-	"github.com/go-json-experiment/json/internal/jsonflags"
-	"github.com/go-json-experiment/json/internal/jsonwire"
+	"github.com/veqryn/json/internal/jsonflags"
+	"github.com/veqryn/json/internal/jsonwire"
 )
 
 var errInvalidUTF8 = &SyntacticError{str: "invalid UTF-8 within string"}

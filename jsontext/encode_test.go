@@ -12,9 +12,9 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/go-json-experiment/json/internal/jsonflags"
-	"github.com/go-json-experiment/json/internal/jsontest"
-	"github.com/go-json-experiment/json/internal/jsonwire"
+	"github.com/veqryn/json/internal/jsonflags"
+	"github.com/veqryn/json/internal/jsontest"
+	"github.com/veqryn/json/internal/jsonwire"
 )
 
 // TestEncoder tests whether we can produce JSON with either tokens or raw values.

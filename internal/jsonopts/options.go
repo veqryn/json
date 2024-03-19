@@ -5,8 +5,8 @@
 package jsonopts
 
 import (
-	"github.com/go-json-experiment/json/internal"
-	"github.com/go-json-experiment/json/internal/jsonflags"
+	"github.com/veqryn/json/internal"
+	"github.com/veqryn/json/internal/jsonflags"
 )
 
 // Options is the common options type shared across json packages.

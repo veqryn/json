@@ -15,7 +15,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/go-json-experiment/json/internal/jsontest"
+	"github.com/veqryn/json/internal/jsontest"
 )
 
 func len64[Bytes ~[]byte | ~string](in Bytes) int64 {

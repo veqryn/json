@@ -22,10 +22,10 @@ import (
 	"testing"
 	"time"
 
-	"github.com/go-json-experiment/json/internal/jsonflags"
-	"github.com/go-json-experiment/json/internal/jsonopts"
-	"github.com/go-json-experiment/json/internal/jsontest"
-	"github.com/go-json-experiment/json/jsontext"
+	"github.com/veqryn/json/internal/jsonflags"
+	"github.com/veqryn/json/internal/jsonopts"
+	"github.com/veqryn/json/internal/jsontest"
+	"github.com/veqryn/json/jsontext"
 )
 
 type (

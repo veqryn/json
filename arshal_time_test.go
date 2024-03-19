@@ -10,7 +10,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/go-json-experiment/json/internal/jsonwire"
+	"github.com/veqryn/json/internal/jsonwire"
 )
 
 func baseLabel(base uint) string {

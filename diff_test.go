@@ -15,7 +15,7 @@ import (
 
 	jsonv1 "encoding/json"
 
-	jsonv2 "github.com/go-json-experiment/json"
+	jsonv2 "github.com/veqryn/json"
 )
 
 // NOTE: This file serves as a list of semantic differences between v1 and v2.

@@ -11,8 +11,8 @@ import (
 	"log"
 	"strings"
 
-	"github.com/go-json-experiment/json"
-	"github.com/go-json-experiment/json/jsontext"
+	"github.com/veqryn/json"
+	"github.com/veqryn/json/jsontext"
 )
 
 // This example demonstrates the use of the [Encoder] and [Decoder] to

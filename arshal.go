@@ -12,11 +12,11 @@ import (
 	"slices"
 	"sync"
 
-	"github.com/go-json-experiment/json/internal"
-	"github.com/go-json-experiment/json/internal/jsonflags"
-	"github.com/go-json-experiment/json/internal/jsonopts"
-	"github.com/go-json-experiment/json/internal/jsonwire"
-	"github.com/go-json-experiment/json/jsontext"
+	"github.com/veqryn/json/internal"
+	"github.com/veqryn/json/internal/jsonflags"
+	"github.com/veqryn/json/internal/jsonopts"
+	"github.com/veqryn/json/internal/jsonwire"
+	"github.com/veqryn/json/jsontext"
 )
 
 // export exposes internal functionality of the "jsontext" package.

@@ -12,8 +12,8 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/go-json-experiment/json/internal/jsonflags"
-	"github.com/go-json-experiment/json/internal/jsonwire"
+	"github.com/veqryn/json/internal/jsonflags"
+	"github.com/veqryn/json/internal/jsonwire"
 )
 
 // NOTE: Value is analogous to v1 json.RawMessage.

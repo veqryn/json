@@ -7,7 +7,7 @@ package jsontext
 import (
 	"io"
 
-	"github.com/go-json-experiment/json/internal"
+	"github.com/veqryn/json/internal"
 )
 
 // Internal is for internal use only.

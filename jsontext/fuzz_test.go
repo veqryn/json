@@ -12,7 +12,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/go-json-experiment/json/internal/jsontest"
+	"github.com/veqryn/json/internal/jsontest"
 )
 
 func FuzzCoder(f *testing.F) {

@@ -10,10 +10,10 @@
 package json
 
 import (
-	jsonv2 "github.com/go-json-experiment/json"
-	"github.com/go-json-experiment/json/internal/jsonflags"
-	"github.com/go-json-experiment/json/internal/jsonopts"
-	"github.com/go-json-experiment/json/jsontext"
+	jsonv2 "github.com/veqryn/json"
+	"github.com/veqryn/json/internal/jsonflags"
+	"github.com/veqryn/json/internal/jsonopts"
+	"github.com/veqryn/json/jsontext"
 )
 
 // Reference the jsonv2 and jsontext packages to assist pkgsite

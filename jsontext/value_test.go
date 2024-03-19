@@ -10,7 +10,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/go-json-experiment/json/internal/jsontest"
+	"github.com/veqryn/json/internal/jsontest"
 )
 
 type valueTestdataEntry struct {

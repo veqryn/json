@@ -8,10 +8,10 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/go-json-experiment/json"
-	"github.com/go-json-experiment/json/internal/jsonflags"
-	. "github.com/go-json-experiment/json/internal/jsonopts"
-	"github.com/go-json-experiment/json/jsontext"
+	"github.com/veqryn/json"
+	"github.com/veqryn/json/internal/jsonflags"
+	. "github.com/veqryn/json/internal/jsonopts"
+	"github.com/veqryn/json/jsontext"
 )
 
 func makeFlags(f ...jsonflags.Bools) (fs jsonflags.Flags) {

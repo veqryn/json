@@ -10,9 +10,9 @@ import (
 	"reflect"
 	"sync"
 
-	"github.com/go-json-experiment/json/internal/jsonflags"
-	"github.com/go-json-experiment/json/internal/jsonopts"
-	"github.com/go-json-experiment/json/jsontext"
+	"github.com/veqryn/json/internal/jsonflags"
+	"github.com/veqryn/json/internal/jsonopts"
+	"github.com/veqryn/json/jsontext"
 )
 
 // SkipFunc may be returned by [MarshalFuncV2] and [UnmarshalFuncV2] functions.

@@ -10,8 +10,8 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/go-json-experiment/json/internal/jsontest"
-	"github.com/go-json-experiment/json/jsontext"
+	"github.com/veqryn/json/internal/jsontest"
+	"github.com/veqryn/json/jsontext"
 )
 
 type unexported struct{}

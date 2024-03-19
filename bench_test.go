@@ -18,8 +18,8 @@ import (
 
 	jsonv1 "encoding/json"
 
-	"github.com/go-json-experiment/json/internal/jsontest"
-	"github.com/go-json-experiment/json/jsontext"
+	"github.com/veqryn/json/internal/jsontest"
+	"github.com/veqryn/json/jsontext"
 )
 
 var benchV1 = os.Getenv("BENCHMARK_V1") != ""

@@ -9,8 +9,8 @@ import (
 	"log"
 	"reflect"
 
-	"github.com/go-json-experiment/json"
-	"github.com/go-json-experiment/json/jsontext"
+	"github.com/veqryn/json"
+	"github.com/veqryn/json/jsontext"
 )
 
 // OrderedObject is an ordered sequence of name/value members in a JSON object.

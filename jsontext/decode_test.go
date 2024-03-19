@@ -16,8 +16,8 @@ import (
 	"testing"
 	"testing/iotest"
 
-	"github.com/go-json-experiment/json/internal/jsonflags"
-	"github.com/go-json-experiment/json/internal/jsontest"
+	"github.com/veqryn/json/internal/jsonflags"
+	"github.com/veqryn/json/internal/jsontest"
 )
 
 // equalTokens reports whether to sequences of tokens formats the same way.

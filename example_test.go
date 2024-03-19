@@ -19,8 +19,8 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/go-json-experiment/json"
-	"github.com/go-json-experiment/json/jsontext"
+	"github.com/veqryn/json"
+	"github.com/veqryn/json/jsontext"
 )
 
 // If a type implements [encoding.TextMarshaler] and/or [encoding.TextUnmarshaler],

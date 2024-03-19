@@ -8,7 +8,7 @@ import (
 	"math"
 	"strconv"
 
-	"github.com/go-json-experiment/json/internal/jsonwire"
+	"github.com/veqryn/json/internal/jsonwire"
 )
 
 var (

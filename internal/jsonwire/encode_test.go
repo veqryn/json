@@ -20,7 +20,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/go-json-experiment/json/internal/jsonflags"
+	"github.com/veqryn/json/internal/jsonflags"
 )
 
 func TestAppendQuote(t *testing.T) {

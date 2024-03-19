@@ -7,9 +7,9 @@ package json
 import (
 	"fmt"
 
-	"github.com/go-json-experiment/json/internal"
-	"github.com/go-json-experiment/json/internal/jsonflags"
-	"github.com/go-json-experiment/json/internal/jsonopts"
+	"github.com/veqryn/json/internal"
+	"github.com/veqryn/json/internal/jsonflags"
+	"github.com/veqryn/json/internal/jsonopts"
 )
 
 // Options configure [Marshal], [MarshalWrite], [MarshalEncode],

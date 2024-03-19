@@ -9,7 +9,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/go-json-experiment/json/jsontext"
+	"github.com/veqryn/json/jsontext"
 )
 
 const errorPrefix = "json: "
